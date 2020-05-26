@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.2)
+  - FloatingPanel (1.7.4)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - FloatingPanel
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FloatingPanel
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  FloatingPanel: 3c9d0e30fe350e1613157557769d2ec97f76b96b
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+
+PODFILE CHECKSUM: 99897c680daa60fe863c5dbe94c5dffd0d130478
+
+COCOAPODS: 1.9.0

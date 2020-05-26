@@ -1,0 +1,33 @@
+### Headers settings
+company: ITIS
+
+### Xcode project settings
+project_name: Lesson-15-Total-Work-
+xcodeproj_path: AnimationsTest.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: AnimationsTest
+
+# The file path for new modules
+project_file_path: AnimationsTest/Modules
+
+# The Xcode group path to new modules
+project_group_path: AnimationsTest/Modules
+
+### Tests generation settings section
+# The tests target name
+test_target: AnimationsTestTests
+
+# The file path for new tests
+test_file_path: AnimationsTestTests/ModuleTests
+
+# The Xcode group path to new tests
+test_group_path: AnimationsTestTests/ModuleTests
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: swifty_viper}
